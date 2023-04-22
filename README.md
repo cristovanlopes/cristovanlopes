@@ -11,5 +11,5 @@ Here's some things about me
 - 📫 How to reach me: ... cris_santos.dev@outlook.com
 ```
 
-# MY GIF
+# PIC RANDOM
 ![](https://raw.githubusercontent.com/cristovanlopes/cristovanlopes/main/coding-computer-coding.gif)
