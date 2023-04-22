@@ -10,3 +10,6 @@ Here's some things about me
 - 💬 Ask me about ... Tv Showns
 - 📫 How to reach me: ... cris_santos.dev@outlook.com
 ```
+
+# MY GIF
+![](https://raw.githubusercontent.com/cristovanlopes/cristovanlopes/main/coding-computer-coding.gif)
