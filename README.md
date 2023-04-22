@@ -16,8 +16,9 @@ Here's some things about me
 # Skills  Languages 
  - PYTHON, JAVA, SQLITE3, C#
 
-
-
+![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngegg.png)
+![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngegg1.png)
+![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggC.png)
 
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggJ.png)
 
