@@ -9,7 +9,17 @@ Here's some things about me
 - 🤔 I’m looking for help with ... Nouthing
 - 💬 Ask me about ... Tv Showns
 - 📫 How to reach me: ... cris_santos.dev@outlook.com
+- 
 ```
 
-# PIC RANDOM
+
+# Skills  Languages 
+ - PYTHON, JAVA, SQLITE3, C#
+
+
+
+
+![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggJ.png)
+
+# !RANDOM
 ![](https://raw.githubusercontent.com/cristovanlopes/cristovanlopes/main/coding-computer-coding.gif)
