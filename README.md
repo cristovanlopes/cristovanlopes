@@ -20,4 +20,4 @@ Here's some things about me
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggJ.png)
 
 # !RANDOM
-![](https://raw.githubusercontent.com/cristovanlopes/cristovanlopes/main/coding-computer-coding.gif)
+![](https://github.com/cristovanlopes/cristovanlopes/blob/main/coding-computer-coding.gif)
