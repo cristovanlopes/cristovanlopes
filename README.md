@@ -17,8 +17,8 @@ Here's some things about me
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngegg1.png)
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggC.png)
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggJ.png)
-<img src="https://img.icons8.com/?size=512&id=112700&format=png" width="100" height="100">
-<img src="https://img.icons8.com/?size=512&id=111973&format=png" width="100" height="100">
+<img src="https://png.pngtree.com/png-vector/20230219/ourmid/pngtree-javascript-vector-icon-design-illustration-png-image_6604214.png" width="100" height="100">
+<img src="https://www.iconpacks.net/icons/2/free-css-icon-1478-thumb.png" width="100" height="100">
 <img src="https://w7.pngwing.com/pngs/31/975/png-transparent-computer-icons-html-text-file-plain-text-html-icon-angle-text-rectangle.png" width="100" height="100">
 
 
