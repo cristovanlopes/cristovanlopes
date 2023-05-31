@@ -4,7 +4,7 @@
 Here's some things about me
 
 - 🔭 I'm currently working...Software Developer
-- 🌱 I’m currently learning ... Python,SQL,C#
+- 🌱 I’m currently learning ... Python,SQL,HTML CSS, JS
 - 📫 How to reach me: ... cris_santos.dev@outlook.com
 - 
 ```
