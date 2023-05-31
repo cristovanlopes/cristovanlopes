@@ -17,9 +17,9 @@ Here's some things about me
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngegg1.png)
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggC.png)
 ![](https://github.com/cristovanlopes/cristovanlopes/blob/main/pngeggJ.png)
-<img src="https://img.icons8.com/?size=512&id=750nXG40bbAS&format=png" width="100" height="100">
+<img src="https://img.icons8.com/?size=512&id=112700&format=png" width="100" height="100">
 <img src="https://img.icons8.com/?size=512&id=111973&format=png" width="100" height="100">
-<img src="https://img.icons8.com/?size=512&id=3752&format=png" width="100" height="100">
+<img src="https://img.icons8.com/?size=512&id=112701&format=png" width="100" height="100">
 
 
 # !RANDOM
